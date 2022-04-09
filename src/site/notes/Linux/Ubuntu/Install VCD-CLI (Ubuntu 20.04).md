@@ -1,7 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/linux/ubuntu/install-vcd-cli-ubuntu-20-04/","tags":"gardenEntry"}
 ---
-```
 # Install VCD-CLI (UBUNTU20.04)
 ```url
 https://github.com/vmware/vcd-cli/blob/master/docs/install.md
