@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux/ubuntu/basic-configuration/","tags":"gardenEntry"}
 ---
 # Basic configuration
-
+test
 ## IP config with netpland:
 
 -   Use root user
